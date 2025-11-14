@@ -21,7 +21,7 @@
     "react-dom": "^16.13.0",
     "react-image-gallery": "^1.0.7",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "react-sizeme": "^2.6.12",
     "react-slideshow-image": "^1.4.0",
     "react-vertical-timeline-component": "^2.5.0",
@@ -56,7 +56,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-import": "^2.20.1",
@@ -65,7 +65,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
     "gh-pages": "^2.2.0",
-    "postcss-cli": "^7.1.0",
+    "postcss-cli": "^11.0.1",
     "prettier": "^1.19.1"
   },
   "description": "The new and improved version of https://acmvit.in/",
